@@ -1,0 +1,12 @@
+.custom-textfield {
+    -fx-text-fill: white;
+}
+
+.text-field {
+    -fx-background-color: transparent; /* Removes background */
+    -fx-border-color: black; /* Optional: Keep a visible border */
+}
+
+.text-field .content {
+    -fx-background-color: black; /* Change this to your desired color */
+}
