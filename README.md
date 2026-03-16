@@ -73,7 +73,7 @@ This approach can make calendar management faster, more flexible, and easier to 
 
 ## Project Status
 
-ChronoDB is currently under active development and new features are being added.
+ChronoDB was a school project and is no longer being developed
 
 ---
 
